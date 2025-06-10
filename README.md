@@ -3,29 +3,29 @@ EMCS Study: SOP Data Analysis
 Requirement: 
 •	Software: Matlab 
 •	Add-ons:
-o	Signal Processing Toolbox 
-o	Simulink 
-o	Statistic and Machine Learning Toolbox 
-o	Parallel Computing 
-o	Optimization Toolbox 
-o	Image Processing Toolbox 
-o	EntropyHub
+o		Signal Processing Toolbox 
+o		Simulink 
+o		Statistic and Machine Learning Toolbox 
+o		Parallel Computing 
+o		Optimization Toolbox 
+o		Image Processing Toolbox 
+o		EntropyHub
 •	Toolboxes: 
-o	EEGLAB
-o	EEGLAB Plugins: 
-	Biosig 
-	BrainBeats
-	EEG-Beats
-o	EEGLAB functions 
-	SempEn
-	Calc_lz_complexity 
+o		EEGLAB
+o		EEGLAB Plugins: 
+			Biosig 
+			BrainBeats
+			EEG-Beats
+o		EEGLAB functions 
+			SempEn (https://matlab.mathworks.com/open/fileexchange/v1?id=124326)
+			Calc_lz_complexity (https://matlab.mathworks.com/open/fileexchange/v1?id=38211)
 •	Codes: 
-o	EDA
-o	IC
-o	HR
-o	SampEn
-o	LZC
-o	STE
+o		EDA
+o		IC
+o		HR
+o		SampEn
+o		LZC
+o		STE
 
 EDA 
 
