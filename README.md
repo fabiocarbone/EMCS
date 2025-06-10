@@ -31,7 +31,7 @@ EDA
 
 1.	Open Matlab 
 2.	Run EDA code 
-3.	Select “YourData.vhdr”
+3.	Select “YourData.vhdr”: data from BrainVision (vhdr)
 4.	Save output 
 
 IC and HR
