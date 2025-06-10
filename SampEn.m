@@ -1,6 +1,6 @@
-% Add paths for EEGLAB and calc_lz_complexity function
-%addpath('genpath/Users/fcarbone/Documents/MATLAB/eeglab2024.2.1'); % Replace with EEGLAB path
-addpath('/Users/fcarbone/Documents/MATLAB/SampEn-2'); % Replace with the function's path
+% Add paths for EEGLAB and SampEn-2 function
+%addpath('your/path/to/eeglab2024.2.1'); % Replace with EEGLAB path
+addpath('your/path/to//SampEn-2'); % Replace with the function's path
 
 % Start EEGLAB
 eeglab;
